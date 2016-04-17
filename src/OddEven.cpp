@@ -80,11 +80,11 @@ int * oddeven_sll(struct oddevennode *head){
 	}
 	temp = temp->next;
 	}
-	return a;
+	 return a;
 	}
 	else
 	{
-	return   NULL;
+	return NULL;
 	}
 	}
 
